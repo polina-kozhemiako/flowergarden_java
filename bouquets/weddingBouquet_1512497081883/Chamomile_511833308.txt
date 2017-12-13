@@ -1,0 +1,4 @@
+Length: 5
+Freshness: 1
+Price: 2.0
+Petals: 7

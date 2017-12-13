@@ -1,0 +1,4 @@
+Length: 12
+Freshness: 2
+Price: 15.0
+Spikes: false
